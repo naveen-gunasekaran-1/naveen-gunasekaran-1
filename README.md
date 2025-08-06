@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Medical Coding & Decoding using LLM<br>Using Hugging Face Transformers and Mistral-7B to build a clinical text-to-code mapping system (ICD-9 ↔ ICD-10).<br><br>👯 I’m looking to collaborate on<br><br>RAAHTRACK – Local Bus Tracking App<br>Real-time public transport tracker built with React Native, Node.js, and Firebase.<br><br>🤝 I’m looking for help with<br><br>LLM Fine-tuning & Clinical NLP<br>If you have experience with prompt engineering, token classification, or medical datasets — let’s connect!<br><br>🌱 I’m currently learning<br><br>Mistral & Mixtral LLM Fine-tuning<br><br>Next.js and Tailwind CSS<br><br>Prompt Engineering for Medical NLP<br><br>DevOps & Scalable Full-Stack Architectures<br><br>💬 Ask me about<br><br>React.js<br><br>Firebase, Node.js, MongoDB<br><br>LLMs, Transformers, and Deep Learning<br><br>⚡ Fun fact<br>I can debug better with coffee — but my bugs are still funnier than my jokes 😄<br><br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveengunasekaran005/) 
 
