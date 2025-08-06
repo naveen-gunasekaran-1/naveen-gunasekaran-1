@@ -1,6 +1,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveengunasekaran005/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=flat&logo=notion&logoColor=white)](https://www.notion.so/NAVEEN-s-Portofolio-21b5e27817f480a78c65e192f51b8e67)
+[![Portfolio](https://www.notion.so/NAVEEN-s-Portofolio-21b5e27817f480a78c65e192f51b8e67)
 
 
 # 💻 Tech Stack:
